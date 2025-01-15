@@ -1,10 +1,10 @@
 /* ==UserStyle==
 @name           Discord 11
-@namespace      github.com/zuzumi-f/Discord-11
-@version        4
+@namespace      github.com/xyloflake/Discord-11
+@version        1
 @description    Based on Windows 11's UI
-@author         Zuzumi
-@updateURL      https://github.com/zuzumi-f/Discord-11/raw/main/Discord11.user.css
+@author         Xyloflake
+@updateURL      https://github.com/xyloflake/Discord-11/raw/main/Discord11.user.css
 @preprocessor   stylus
 
 @var checkbox messageBuble     "Enable Message Bubble Style" 1
