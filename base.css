@@ -1079,15 +1079,13 @@
 }
 
 .theme-dark .header_fd6364 {
-    background-color: var(--windark-button-bg);
+    background-color: var(--background-secondary-alt);
     color: #fff;
-    border: 1px solid var(--windark-button-border);
-    border-top-color: var(--windark-button-top);
-    border-bottom-color: var(--windark-button-bottom);
+    border: var(--windarkborder2);
     border-radius: var(--winrad2);
 }
 .theme-dark .header_fd6364:hover {
-    background-color: var(--windark-button-hover);
+    background-color: transparent;
 }
 
 .theme-light .header_fd6364 {
