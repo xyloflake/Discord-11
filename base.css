@@ -816,14 +816,16 @@
 .theme-dark .container_b2ca13,
 .theme-dark .activityPanel_a4d4d9,
 .theme-dark .container_adcaac,
-.theme-dark .container-6sXIoE {
+.theme-dark .container-6sXIoE,
+.theme-dark #vc-spotify-player {
     border: var(--windarkborder2);
 }
 
 .theme-light .container_b2ca13,
 .theme-light .activityPanel_a4d4d9,
 .theme-light .container_adcaac,
-.theme-light .container-6sXIoE {
+.theme-light .container-6sXIoE,
+.theme-light #vc-spotify-player {
     border: var(--winlightborder2);
 }
 
