@@ -807,7 +807,8 @@
 
 .activityPanel_a4d4d9,
 .container_adcaac,
-.container-6sXIoE {
+.container-6sXIoE,
+#vc-spotify-player {
     margin: 0px 4px 4px;
     border-radius: var(--winrad3);
     border-bottom: none;
